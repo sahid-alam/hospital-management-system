@@ -87,9 +87,3 @@ cd frontend && npm install && npm run dev
 | 9 | Transactions | wards route – discharge+bill in BEGIN/COMMIT |
 | 10 | Normalization (3NF) | Schema design + this README |
 
-## Team / Author
-
-- Name: ___________________________
-- USN:  ___________________________
-- Section: ___  |  Semester: IV AIML
-- Guide: ___________________________

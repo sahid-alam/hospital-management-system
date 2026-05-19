@@ -1,0 +1,33 @@
+# Claude Code internal files
+.claude/
+
+# Old prototype / scratch files
+hospital/
+mnt/
+
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Build output
+frontend/dist/
+frontend/.cache/
+
+# Environment files — never commit secrets
+.env
+backend/.env
+frontend/.env
+
+# OS / Editor
+.DS_Store
+*.DS_Store
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Python cache (skill data)
+__pycache__/
+*.pyc
